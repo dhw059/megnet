@@ -8,11 +8,9 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/materialsvirtuallab/megnet/master)
 
-# Deprecation
+# Our Update and targets
+We integrate and migrate code based on the TensorFlow architecture, such as MegNet and KGCNN. We enhance the models with methods for saving, weight extraction, migration, and visualization. Additionally, we explore the application of multiple GNN models, where the visualization methods lower the entry barrier into this field.
 
-This repository has been deprecated in favor of a new PyTorch + Deep Graph Library implementation in the
-[matgl repository](https://github.com/materialsvirtuallab/matgl). It will no longer be updated and is retained
-purely as a reference implementation in the original Tensorflow.
 
 # Table of Contents
 * [Introduction](#introduction)
